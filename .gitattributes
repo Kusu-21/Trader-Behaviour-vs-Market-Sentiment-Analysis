@@ -1,0 +1,2 @@
+csv_file/merged_trades_sentiment.csv filter=lfs diff=lfs merge=lfs -text
+csv_file/historical_data[[:space:]]-[[:space:]]historical_data.csv filter=lfs diff=lfs merge=lfs -text
